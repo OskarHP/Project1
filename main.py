@@ -9,7 +9,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Hej")
-    print("Då")
+    print("Dåligt")
 
 # Press the green button in the gutter to run the s´cript.
 if __name__ == '__main__':
